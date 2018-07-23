@@ -15,6 +15,7 @@ class MainViewController: UIViewController {
 
         // Do any additional setup after loading the view.
         self.view.backgroundColor = UIColor.green
+        self.view.backgroundColor = UIColor.magenta
     }
 
     override func didReceiveMemoryWarning() {
